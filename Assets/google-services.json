@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "48752425234",
+    "firebase_url": "https://tigers-629c2.firebaseio.com",
+    "project_id": "tigers-629c2",
+    "storage_bucket": "tigers-629c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48752425234:android:5ca253b155e7be67",
+        "android_client_info": {
+          "package_name": "com.BK.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48752425234-k23782edqm78hirgvm26kitl3f4m00d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5beR-nMWA2yCxWO1wZqm7xgfBdM9kcY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
